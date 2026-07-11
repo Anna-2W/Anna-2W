@@ -16,7 +16,8 @@ one green test at a time. 🧪
 ### 🐈 About
 
 - 🛠️ Currently building **[java-mastery](https://github.com/Anna-2W/java-mastery)** — a test-driven curriculum to master Java end to end.
-- 💻 Most days I'm deep in **Java / Spring Boot / Hibernate / AWS / Terraform**.
+- 💻 Most days I'm deep in **Java / Spring Boot / Hibernate / MySQL / PostgreSQL / AWS / Terraform**.
+- 🎨 On the frontend, I build with **TypeScript & Vue 3**.
 - 🌱 Currently exploring **AI-assisted developer workflows**.
 - ⚡ Fun fact: I think every feature deserves a failing test first.
 
@@ -34,7 +35,7 @@ one green test at a time. 🧪
 
 <div align="center">
 
-![My skills](https://skillicons.dev/icons?i=java,spring,hibernate,postgres,aws,terraform,docker,rabbitmq,vue,git,idea&theme=dark)
+![My skills](https://skillicons.dev/icons?i=java,spring,hibernate,mysql,postgres,aws,terraform,docker,rabbitmq,ts,vue,git,idea&theme=dark)
 
 </div>
 
