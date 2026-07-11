@@ -6,7 +6,7 @@
 
 ### Backend Software Engineer · Java / Spring Boot · Cloud ☁️
 
-Building robust backend services, clean architectures and infrastructure as code —
+Building robust backend services, clean architectures and infrastructure as code,
 one green test at a time. 🧪
 
 </div>
@@ -15,9 +15,10 @@ one green test at a time. 🧪
 
 ### 🐈 About
 
-- 🛠️ Currently building **[java-mastery](https://github.com/Anna-2W/java-mastery)** — a test-driven curriculum to master Java end to end.
+- 🛠️ Currently building **[java-mastery](https://github.com/Anna-2W/java-mastery)**: a test-driven curriculum to master Java end to end.
 - 💻 Most days I'm deep in **Java / Spring Boot / Hibernate / MySQL / PostgreSQL / AWS / Terraform**.
 - 🎨 On the frontend, I build with **TypeScript & Vue 3**.
+- 📱 I also ship **native iOS apps** in **Swift**.
 - 🌱 Currently exploring **AI-assisted developer workflows**.
 - ⚡ Fun fact: I think every feature deserves a failing test first.
 
@@ -25,7 +26,7 @@ one green test at a time. 🧪
 
 ### 🚀 Featured project
 
-> **java-mastery** — theory + runnable examples + JUnit exercises across Core Java, Data
+> **java-mastery**: theory + runnable examples + JUnit exercises across Core Java, Data
 > Structures & Algorithms, design patterns, Spring Boot and infrastructure. Fork it and
 > track your progress with `./progress.sh`.
 
@@ -35,7 +36,7 @@ one green test at a time. 🧪
 
 <div align="center">
 
-![My skills](https://skillicons.dev/icons?i=java,spring,hibernate,mysql,postgres,aws,terraform,docker,rabbitmq,ts,vue,git,idea&theme=dark)
+![My skills](https://skillicons.dev/icons?i=java,spring,hibernate,mysql,postgres,aws,terraform,docker,rabbitmq,ts,vue,swift,bash,git,idea&theme=dark)
 
 </div>
 
