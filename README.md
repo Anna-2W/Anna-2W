@@ -46,9 +46,6 @@ one green test at a time. 🧪
 
 ![Streak](https://streak-stats.demolab.com?user=Anna-2W&theme=tokyonight&hide_border=true)
 
-![Stats](https://github-readme-stats.vercel.app/api?username=Anna-2W&show_icons=true&hide_border=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Anna-2W&layout=compact&hide_border=true&theme=tokyonight)
-
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Anna-2W&theme=tokyo-night&hide_border=true)
 
 </div>
