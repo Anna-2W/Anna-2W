@@ -24,11 +24,13 @@ one green test at a time. 🧪
 
 ---
 
-### 🚀 Featured project
+### 📦 Projects
 
-> **java-mastery**: theory + runnable examples + JUnit exercises across Core Java, Data
-> Structures & Algorithms, design patterns, Spring Boot and infrastructure. Fork it and
-> track your progress with `./progress.sh`.
+**[java-mastery](https://github.com/Anna-2W/java-mastery)** (live, open-source): a test-driven
+curriculum covering Core Java, Data Structures & Algorithms, design patterns and system design.
+28 modules, around 100 JUnit exercises you solve yourself. MIT licensed and forkable.
+
+> More focused repos on the way: `sql-mastery` and `spring-boot-mastery`.
 
 ---
 
