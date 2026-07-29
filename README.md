@@ -42,18 +42,6 @@ curriculum covering Core Java, Data Structures & Algorithms, design patterns and
 
 </div>
 
----
-
-### 📊 GitHub Activity
-
-<div align="center">
-
-![Streak](https://streak-stats.demolab.com?user=Anna-2W&theme=tokyonight&hide_border=true)
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Anna-2W&theme=tokyo-night&hide_border=true)
-
-</div>
-
 <!-- 🔗 Connect (to add later): LinkedIn badge goes here -->
 
 <div align="center">
