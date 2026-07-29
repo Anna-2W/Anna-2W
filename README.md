@@ -15,7 +15,7 @@ one green test at a time. 🧪
 
 ### 🐈 About
 
-- 🛠️ Currently building **[java-mastery](https://github.com/Anna-2W/java-mastery)**: a test-driven curriculum to master Java end to end.
+- 🛠️ Currently building **[java-mastery](https://github.com/Anna-2W/java-mastery)** and **sql-mastery**: test-driven curricula to master Java and SQL end to end.
 - 💻 Most days I'm deep in **Java / Spring Boot / Hibernate / MySQL / PostgreSQL / AWS / Terraform**.
 - 🎨 On the frontend, I build with **TypeScript & Vue 3**.
 - 📱 I also ship **native iOS apps** in **Swift**.
@@ -30,7 +30,13 @@ one green test at a time. 🧪
 curriculum covering Core Java, Data Structures & Algorithms, design patterns and system design.
 28 modules, around 100 JUnit exercises you solve yourself. MIT licensed and forkable.
 
-> More focused repos on the way: `sql-mastery` and `spring-boot-mastery`.
+**sql-mastery** (in progress, going public soon): the same test-driven loop applied to SQL. You
+write real queries in `.sql` files; a JUnit test seeds a database, runs your query and checks
+the exact rows. 15 modules from `SELECT` to partitioning, with H2 for the fundamentals and real
+PostgreSQL through Testcontainers for indexes, transactions, JSON and full-text search. MIT
+licensed.
+
+> Next up: `spring-boot-mastery`.
 
 ---
 
