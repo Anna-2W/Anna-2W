@@ -17,7 +17,7 @@ one green test at a time. 🧪
 
 ⌚ Shipped **[My Garmin Stats for ChatGPT/Claude](https://chromewebstore.google.com/detail/alhbbbmaheeddjcpdbalahaihfbajeff)**: a free Chrome extension that sends my Garmin data to Claude or ChatGPT in one click.<br>
 💻 Most days I'm deep in **Java / Spring Boot / Hibernate / MySQL / PostgreSQL / AWS / Terraform**.<br>
-🎨 On the frontend, I build with **TypeScript & Vue 3**.<br>
+🎨 On the frontend, I build with **TypeScript & Vue.js 3**.<br>
 📱 I also ship **native iOS apps** in **Swift**.<br>
 🌱 Currently exploring **AI-assisted developer workflows**.<br>
 ⚡ Fun fact: I think every feature deserves a failing test first.
