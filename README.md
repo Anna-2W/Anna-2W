@@ -16,6 +16,7 @@ one green test at a time. 🧪
 ### 🐈 About
 
 - 🛠️ Currently building **[java-mastery](https://github.com/Anna-2W/java-mastery)** and **[sql-mastery](https://github.com/Anna-2W/sql-mastery)**: test-driven curricula to master Java and SQL end to end.
+- ⌚ Shipped **[My Garmin Stats for ChatGPT/Claude](https://chromewebstore.google.com/detail/alhbbbmaheeddjcpdbalahaihfbajeff)**: a free Chrome extension that sends my Garmin data to Claude or ChatGPT in one click.
 - 💻 Most days I'm deep in **Java / Spring Boot / Hibernate / MySQL / PostgreSQL / AWS / Terraform**.
 - 🎨 On the frontend, I build with **TypeScript & Vue 3**.
 - 📱 I also ship **native iOS apps** in **Swift**.
@@ -25,6 +26,12 @@ one green test at a time. 🧪
 ---
 
 ### 📦 Projects
+
+**[My Garmin Stats for ChatGPT/Claude](https://chromewebstore.google.com/detail/alhbbbmaheeddjcpdbalahaihfbajeff)** (live on the Chrome Web Store,
+[open-source](https://github.com/Anna-2W/mes-stats-garmin-claude)): a free Chrome extension that adds a ⌚ Garmin
+button inside Claude and ChatGPT and attaches your real Garmin Connect data (activities, laps, sleep, HRV, stress,
+VO2 max) to the conversation. 100% local: no server, no account, no password. I built it while training for my
+first 10K, to get an AI coach that sees my real data. JavaScript, Chrome Manifest V3, English and French.
 
 **[java-mastery](https://github.com/Anna-2W/java-mastery)** (live, open-source): a test-driven
 curriculum covering Core Java, Data Structures & Algorithms, design patterns and system design.
@@ -44,7 +51,7 @@ indexes, `EXPLAIN`, transaction isolation, JSON and full-text search. MIT licens
 
 <div align="center">
 
-![My skills](https://skillicons.dev/icons?i=java,spring,hibernate,mysql,postgres,aws,terraform,docker,rabbitmq,ts,vue,swift,bash,git,idea&theme=dark)
+![My skills](https://skillicons.dev/icons?i=java,spring,hibernate,mysql,postgres,aws,terraform,docker,rabbitmq,js,ts,vue,swift,bash,git,idea&theme=dark)
 
 </div>
 
