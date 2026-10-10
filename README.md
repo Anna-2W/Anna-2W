@@ -42,8 +42,6 @@ database, runs your query and checks the exact rows. 15 modules and 45 exercises
 to partitioning, with H2 for the fundamentals and real PostgreSQL through Testcontainers for
 indexes, `EXPLAIN`, transaction isolation, JSON and full-text search. MIT licensed and forkable.
 
-> Next up: `spring-boot-mastery`.
-
 ---
 
 ### 💼 Tech stack
