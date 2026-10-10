@@ -15,7 +15,6 @@ one green test at a time. 🧪
 
 ### 🐈 About
 
-- 🛠️ Currently building **[java-mastery](https://github.com/Anna-2W/java-mastery)** and **[sql-mastery](https://github.com/Anna-2W/sql-mastery)**: test-driven curricula to master Java and SQL end to end.
 - ⌚ Shipped **[My Garmin Stats for ChatGPT/Claude](https://chromewebstore.google.com/detail/alhbbbmaheeddjcpdbalahaihfbajeff)**: a free Chrome extension that sends my Garmin data to Claude or ChatGPT in one click.
 - 💻 Most days I'm deep in **Java / Spring Boot / Hibernate / MySQL / PostgreSQL / AWS / Terraform**.
 - 🎨 On the frontend, I build with **TypeScript & Vue 3**.
